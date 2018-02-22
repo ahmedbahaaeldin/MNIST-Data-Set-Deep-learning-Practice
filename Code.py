@@ -1,7 +1,7 @@
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
 
-mnist = input_data.read_data_sets("C:\\Users\\BIKAA\\Desktop\\team atef cyborg alaa hassan\\New folder",one_hot=True)
+mnist = input_data.read_data_sets("C:\\Users\\BIKAA\\Desktop\\AhmedBahaa\\New folder",one_hot=True)
 n_nodes_h1=500
 n_nodes_h2=500
 n_nodes_h3=600
